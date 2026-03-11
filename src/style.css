@@ -1,0 +1,27 @@
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px; 
+    padding: 30px;
+    justify-content: center;
+    
+}
+
+.card1{
+    border: 2px solid black;
+    width: 300px;
+    height: 190px;
+    border-radius: 10px;
+    
+}
+
+.colorpurple{
+    width: 300px;
+    height: 110px;
+    background-color: blueviolet;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+    
+
+}
+
