@@ -23,6 +23,37 @@
     
 
 }
+
+
+.card2{
+    border: 2px solid black;
+    width: 300px;
+    height: 190px;
+    border-radius: 10px;
+}
+
+.red{
+    width: 300px;
+    height: 110px;
+    background-color:red;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+}
+
+.card3{
+    border: 2px solid black;
+    width: 300px;
+    height: 190px;
+    border-radius: 10px;
+}
+.green{
+    width: 300px;
+    height: 110px;
+    background-color:green;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+}
+
 .card4{
     border: 2px solid black;
     width: 300px;
