@@ -95,3 +95,41 @@
     border-top-left-radius: 7px;
     border-top-right-radius: 7px;
 }
+
+.card7{
+    border: 2px solid black;
+    width: 300px;
+    height: 190px;
+    border-radius: 10px;
+}
+
+.lemongreen{
+    width: 300px;
+    height: 110px;
+    background-color:rgb(47, 241, 21);
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+}
+
+
+.card8{
+    border: 2px solid black;
+    width: 300px;
+    height: 190px;
+    border-radius: 10px;
+}
+
+.yellow{
+    width: 300px;
+    height: 110px;
+    background-color:rgb(200, 245, 36);
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+}
+
+.card9{
+   border: 2px solid black;
+    width: 300px;
+    height: 190px;
+    border-radius: 10px; 
+}
