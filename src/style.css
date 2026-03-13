@@ -1,10 +1,24 @@
-.container{
-    flex-wrap: wrap;
-    gap: 20px; 
-    /* padding: 30px; */
-    justify-content: left;
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+    background-color: blueviolet;
+    padding: 15px;
+    text-align: left;
+ 
     
 }
+
+.big-div1{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+
+.icons p{
+    display: inline;
+}
+
 
 .card1{
     border: 2px solid black;
@@ -23,6 +37,37 @@
     
 
 }
+
+
+.card2{
+    border: 2px solid black;
+    width: 300px;
+    height: 190px;
+    border-radius: 10px;
+}
+
+.red{
+    width: 300px;
+    height: 110px;
+    background-color:red;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+}
+
+.card3{
+    border: 2px solid black;
+    width: 300px;
+    height: 190px;
+    border-radius: 10px;
+}
+.green{
+    width: 300px;
+    height: 110px;
+    background-color:green;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+}
+
 .card4{
     border: 2px solid black;
     width: 300px;
@@ -42,23 +87,11 @@
     height: 190px;
     border-radius: 10px;
 }
+
 .colordeeppink{
     width: 300px;
     height: 110px;
     background-color:deeppink;
-    border-top-left-radius: 7px;
-    border-top-right-radius: 7px;
-}
-.card6{
-    border: 2px solid black;
-    width: 300px;
-    height: 190px;
-    border-radius: 10px;
-}
-.colorred{
-    width: 300px;
-    height: 110px;
-    background-color:rgb(255, 20, 20);
     border-top-left-radius: 7px;
     border-top-right-radius: 7px;
 }
