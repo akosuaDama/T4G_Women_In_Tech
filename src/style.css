@@ -1,10 +1,24 @@
-.container{
-    flex-wrap: wrap;
-    gap: 20px; 
-    /* padding: 30px; */
-    justify-content: left;
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+    background-color: blueviolet;
+    padding: 15px;
+    text-align: left;
+ 
     
 }
+
+.big-div1{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+
+.icons p{
+    display: inline;
+}
+
 
 .card1{
     border: 2px solid black;
@@ -111,4 +125,11 @@
     background-color:rgb(200, 245, 36);
     border-top-left-radius: 7px;
     border-top-right-radius: 7px;
+}
+
+.card9{
+   border: 2px solid black;
+    width: 300px;
+    height: 190px;
+    border-radius: 10px; 
 }
